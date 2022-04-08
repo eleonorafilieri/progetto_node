@@ -1,5 +1,5 @@
 {
-  "name": "esempio-package-json",
+  "name": "node",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
@@ -7,5 +7,13 @@
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": "Roberto Serra <obi.serra@gmail.com>",
-  "license": "MIT"
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/eleonorafilieri/progetto_node.git"
+  },
+  "bugs": {
+    "url": "https://github.com/eleonorafilieri/progetto_node/issues"
+  },
+  "homepage": "https://github.com/eleonorafilieri/progetto_node#readme"
 }
